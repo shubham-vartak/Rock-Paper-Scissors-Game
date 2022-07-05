@@ -1,0 +1,2 @@
+# Rock-Paper-Scissors-Game
+Rock paper scissors is a game constructed in python language using tkinter library. The is game  is GUI. The game contains sign up page /login page, welcome page, main game page, result  page, leaderboard page. Login /Sign up page and leaderboard is connected to database to store  data of players. In Leaderboard page there is option to switch theme (Light and Dark) also  leaderboard will show names of all the players (Signed up players), matches played, matches  won, matches lose, matches tied.
